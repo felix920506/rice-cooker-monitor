@@ -17,7 +17,7 @@ Monitor rice cooker with microcontroller
 | CT_PIN | Current transformer (CT) Pin |
 
 ```python
-SSID = 'YOUR WIFI SSID HERE' Put your wifi name here
+SSID = 'YOUR WIFI SSID HERE'
 WEBHOOK_ENDPOINT = "DISCORD WEBHOOK URL HERE"
 
 CONNECTION_TEST_MSG = '連線測試正常!'
