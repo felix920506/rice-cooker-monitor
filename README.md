@@ -3,6 +3,15 @@ Monitor rice cooker with microcontroller
 
 ## English Instructions
 
+Bill of materials:
+- MCU x1
+- Current Transformer x1
+
+I used this 20A CT Clamp from DFRobot: https://www.dfrobot.com/product-1486.html
+You can use whatever you want, though you will likely have to modify the code.
+
+### Installation Guide
+
 1. Install [CircuitPython](https://circuitpython.org/) on your MCU of choice. The config in this repository uses ESP32
 2. Modify the values in the top section of code.py for your settings.
 
